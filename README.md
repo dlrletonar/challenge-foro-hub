@@ -1,4 +1,3 @@
-
 # Foro Hub API REST Challenge Alura
 
 Este repositorio contiene el código fuente de una API REST desarrollada con Spring Boot para gestionar un foro de discusión. La API permite la autenticación de usuarios, registro de nuevos usuarios y gestión de temas de discusión.
@@ -53,8 +52,10 @@ Para crear un nuevo tema de discusión:
 ### Pruebas Adicionales con swagge
 
 - Puedes explorar todos los endpoints disponibles y sus descripciones en [Swagger UI](http://localhost:8080/swagger-ui/index.html).
-
-
+![image](https://github.com/user-attachments/assets/6601ea81-4ce8-442f-bdc1-e166db4a43b0)
+![image](https://github.com/user-attachments/assets/7a6f238d-d999-49c4-909e-147a49da5992)
+![image](https://github.com/user-attachments/assets/68814bdf-f4fe-47b1-9816-916fb1a7e434)
+![image](https://github.com/user-attachments/assets/de2bc061-a78a-4042-bfd3-6daae6dd5ab7)
 ### Dependencias
 
 - Java 17
@@ -92,3 +93,8 @@ Para ejecutar la aplicación localmente:
 1. Clona este repositorio: `git clone https://github.com/tu-usuario/challenge-foro-hub.git`
 2. Configura tu base de datos MySQL en el archivo `application.properties`, las base de datos, clave, usuario
 3. Ejecuta la aplicación utilizando tu IDE preferido o ejecutando `mvn spring-boot:run` en la línea de comandos.
+
+
+finalmente concluido el challenge
+![Badge-Spring](https://github.com/user-attachments/assets/cb61cea2-ae08-48fd-82d3-a1acfeee5da8)
+
